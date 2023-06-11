@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e5fea1ad-cf9e-4490-b5bd-cce2a03cce48" name="OASIS">
+        <fileTransfer accessType="SFTP" host="166.111.226.99" port="18001" sshConfigId="5895730c-f5ab-48d5-aeb0-42711a985df1" sshConfig="challenge@166.111.226.99:18001 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
